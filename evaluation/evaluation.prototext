@@ -1,0 +1,252 @@
+measure {
+ key: "F1"
+ value: "0.1013020341058483"
+}
+measure {
+ key: "Precision"
+ value: "0.4065303587074366"
+}
+measure {
+ key: "Recall"
+ value: "0.05785999275960123"
+}
+measure {
+ key: "Precision Self-direction: thought"
+ value: "0.42424242424242425"
+}
+measure {
+ key: "Recall Self-direction: thought"
+ value: "0.053929121725731895"
+}
+measure {
+ key: "F1 Self-direction: thought"
+ value: "0.09569377990430622"
+}
+measure {
+ key: "Precision Self-direction: action"
+ value: "0.5476190476190477"
+}
+measure {
+ key: "Recall Self-direction: action"
+ value: "0.06625060009601537"
+}
+measure {
+ key: "F1 Self-direction: action"
+ value: "0.1182012847965739"
+}
+measure {
+ key: "Precision Stimulation"
+ value: "0.22950819672131148"
+}
+measure {
+ key: "Recall Stimulation"
+ value: "0.0340632603406326"
+}
+measure {
+ key: "F1 Stimulation"
+ value: "0.05932203389830509"
+}
+measure {
+ key: "Precision Hedonism"
+ value: "0.30303030303030304"
+}
+measure {
+ key: "Recall Hedonism"
+ value: "0.06968641114982578"
+}
+measure {
+ key: "F1 Hedonism"
+ value: "0.11331444759206799"
+}
+measure {
+ key: "Precision Achievement"
+ value: "0.586864406779661"
+}
+measure {
+ key: "Recall Achievement"
+ value: "0.12117235345581802"
+}
+measure {
+ key: "F1 Achievement"
+ value: "0.20087019579405366"
+}
+measure {
+ key: "Precision Power: dominance"
+ value: "0.2835820895522388"
+}
+measure {
+ key: "Recall Power: dominance"
+ value: "0.023284313725490197"
+}
+measure {
+ key: "F1 Power: dominance"
+ value: "0.043035107587768975"
+}
+measure {
+ key: "Precision Power: resources"
+ value: "0.40425531914893614"
+}
+measure {
+ key: "Recall Power: resources"
+ value: "0.046228710462287104"
+}
+measure {
+ key: "F1 Power: resources"
+ value: "0.08296943231441048"
+}
+measure {
+ key: "Precision Face"
+ value: "0.2"
+}
+measure {
+ key: "Recall Face"
+ value: "0.018835616438356163"
+}
+measure {
+ key: "F1 Face"
+ value: "0.03442879499217527"
+}
+measure {
+ key: "Precision Security: personal"
+ value: "0.637466307277628"
+}
+measure {
+ key: "Recall Security: personal"
+ value: "0.15719508142239946"
+}
+measure {
+ key: "F1 Security: personal"
+ value: "0.25219941348973607"
+}
+measure {
+ key: "Precision Security: societal"
+ value: "0.6379310344827587"
+}
+measure {
+ key: "Recall Security: societal"
+ value: "0.07438681141938078"
+}
+measure {
+ key: "F1 Security: societal"
+ value: "0.1332373064458048"
+}
+measure {
+ key: "Precision Tradition"
+ value: "0.38372093023255816"
+}
+measure {
+ key: "Recall Tradition"
+ value: "0.03806228373702422"
+}
+measure {
+ key: "F1 Tradition"
+ value: "0.06925498426023084"
+}
+measure {
+ key: "Precision Conformity: rules"
+ value: "0.4186991869918699"
+}
+measure {
+ key: "Recall Conformity: rules"
+ value: "0.056969026548672565"
+}
+measure {
+ key: "F1 Conformity: rules"
+ value: "0.1002921129503408"
+}
+measure {
+ key: "Precision Conformity: interpersonal"
+ value: "0.21428571428571427"
+}
+measure {
+ key: "Recall Conformity: interpersonal"
+ value: "0.029801324503311258"
+}
+measure {
+ key: "F1 Conformity: interpersonal"
+ value: "0.05232558139534883"
+}
+measure {
+ key: "Precision Humility"
+ value: "0.06349206349206349"
+}
+measure {
+ key: "Recall Humility"
+ value: "0.006745362563237774"
+}
+measure {
+ key: "F1 Humility"
+ value: "0.012195121951219513"
+}
+measure {
+ key: "Precision Benevolence: caring"
+ value: "0.5901639344262295"
+}
+measure {
+ key: "Recall Benevolence: caring"
+ value: "0.09840546697038724"
+}
+measure {
+ key: "F1 Benevolence: caring"
+ value: "0.1686841077704022"
+}
+measure {
+ key: "Precision Benevolence: dependability"
+ value: "0.3050847457627119"
+}
+measure {
+ key: "Recall Benevolence: dependability"
+ value: "0.031141868512110725"
+}
+measure {
+ key: "F1 Benevolence: dependability"
+ value: "0.056514913657770796"
+}
+measure {
+ key: "Precision Universalism: concern"
+ value: "0.5743494423791822"
+}
+measure {
+ key: "Recall Universalism: concern"
+ value: "0.099293059125964"
+}
+measure {
+ key: "F1 Universalism: concern"
+ value: "0.1693150684931507"
+}
+measure {
+ key: "Precision Universalism: nature"
+ value: "0.6857142857142857"
+}
+measure {
+ key: "Recall Universalism: nature"
+ value: "0.03966942148760331"
+}
+measure {
+ key: "F1 Universalism: nature"
+ value: "0.075"
+}
+measure {
+ key: "Precision Universalism: tolerance"
+ value: "0.22764227642276422"
+}
+measure {
+ key: "Recall Universalism: tolerance"
+ value: "0.027888446215139442"
+}
+measure {
+ key: "F1 Universalism: tolerance"
+ value: "0.049689440993788817"
+}
+measure {
+ key: "Precision Universalism: objectivity"
+ value: "0.41295546558704455"
+}
+measure {
+ key: "Recall Universalism: objectivity"
+ value: "0.06419131529263687"
+}
+measure {
+ key: "F1 Universalism: objectivity"
+ value: "0.11111111111111109"
+}

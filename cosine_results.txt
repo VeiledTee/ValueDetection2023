@@ -1,0 +1,86 @@
+--- Evaluating classes based on percentile ---
+Percentile: 99.0%	Num records: 5393	Num classified incorrectly: 5388	99.9073% incorrect
+Percentile: 95.0%	Num records: 5393	Num classified incorrectly: 5385	99.8517% incorrect
+Percentile: 90.0%	Num records: 5393	Num classified incorrectly: 5382	99.796% incorrect
+Percentile: 80.0%	Num records: 5393	Num classified incorrectly: 5382	99.796% incorrect
+--- Precision, Recall, and F1 Score ---
+Self-direction: thought
+	Precision: 0.8028535610821671
+	Recall: 0.2243649174856295
+	F1-Score: 0.141303118986582
+Self-direction: action
+	Precision: 0.5495721785893212
+	Recall: 0.7413313554607825
+	F1-Score: 0.6312091915945498
+Stimulation
+	Precision: 0.9104974276803388
+	Recall: 0.954199888744669
+	F1-Score: 0.9318365361950977
+Hedonism
+	Precision: 0.937230786115288
+	Recall: 0.9681068051177453
+	F1-Score: 0.9524186224834649
+Achievement
+	Precision: 0.5178767870073797
+	Recall: 0.7196365659187836
+	F1-Score: 0.6023095778155703
+Power: dominance
+	Precision: 0.786574605556392
+	Recall: 0.8868904134989801
+	F1-Score: 0.8337257955514196
+Power: resources
+	Precision: 0.781648777324267
+	Recall: 0.8841090302243649
+	F1-Score: 0.8297277543764928
+Face
+	Precision: 0.863352130205389
+	Recall: 0.9291674392731318
+	F1-Score: 0.8950515259895548
+Security: personal
+	Precision: 0.39582833424143604
+	Recall: 0.6291488967179677
+	F1-Score: 0.4859326670985806
+Security: societal
+	Precision: 0.46183529211779123
+	Recall: 0.6795846467643242
+	F1-Score: 0.5499398830627618
+Tradition
+	Precision: 0.8004492366350141
+	Recall: 0.8946782866679028
+	F1-Score: 0.8449447510613879
+Conformity: rules
+	Precision: 0.6111395130779338
+	Recall: 0.781754125718524
+	F1-Score: 0.685997584354105
+Conformity: interpersonal
+	Precision: 0.9247070831563631
+	Recall: 0.9616169108103096
+	F1-Score: 0.9428008884511326
+Humility
+	Precision: 0.8588783648608919
+	Recall: 0.9267569071017986
+	F1-Score: 0.8915274798758135
+Benevolence: caring
+	Precision: 0.5670288269858577
+	Recall: 0.7530131652141665
+	F1-Score: 0.646919074240476
+Benevolence: dependability
+	Precision: 0.7234302083563625
+	Recall: 0.850547005377341
+	F1-Score: 0.7818555338007741
+Universalism: concern
+	Precision: 0.3771549531503932
+	Recall: 0.6141294270350455
+	F1-Score: 0.4673168667065067
+Universalism: nature
+	Precision: 0.8479155303922037
+	Recall: 0.9208232894492862
+	F1-Score: 0.8828667738980894
+Universalism: tolerance
+	Precision: 0.7689140337504762
+	Recall: 0.8768774337103653
+	F1-Score: 0.8193545512776759
+Universalism: objectivity
+	Precision: 0.6473191567081089
+	Recall: 0.804561468570369
+	F1-Score: 0.7174254443335041
